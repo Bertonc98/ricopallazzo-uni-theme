@@ -1,5 +1,5 @@
 #import "@preview/touying:0.7.4": *
-#import "src/themes_colors.typ":*
+#import "themes_colors.typ":*
 
 #let alert_box(content, angle: 0deg, content_color: black) = {
   box(
