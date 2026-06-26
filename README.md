@@ -43,11 +43,14 @@ For local development:
 #import "@preview/ricopallazzo-uni-theme:0.1.0": *
 
 #show: ricopallazzo-uni-theme.with(
+  aspect-ratio: "presentation-16-9", 
   title: "My Presentation",
   short_title: "Presentation",
-  author: "John Doe",
+  author: "Alberto Bertoncini",
   institute: "University of Milan",
   theme: "blue",
+  logo: "../assets/logo_RGB_negative_circle.png",
+  logo_name: "../assets/logo_coutour_name.png"
 )
 
 #title-slide()
