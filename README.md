@@ -28,7 +28,7 @@ Once published on Typst Universe:
 #import "@preview/ricopallazzo-uni-theme:0.1.0": *
 ```
 
-For local development:
+For local development :
 
 ```typst
 #import "@local/ricopallazzo-uni-theme:0.1.0": *
