@@ -389,7 +389,7 @@
 })
 
 #let ricopallazzo-uni-theme(
-  aspect-ratio: "16-9",
+  aspect-ratio: "presentation-16-9",
   theme: "blue",
   title: none,
   short_title: none,
@@ -397,8 +397,8 @@
   institute: none,
   date: true,
   footer: none,
-  logo: "assets/logo_RGB.png",
-  logo_name: "assets/logo_RGB.png",
+  logo: "../assets/logo_RGB_negative_circle.png",
+  logo_name: "../assets/logo_coutour_name.png",
   progress: "slide",
   prefix: "numbering",
   ..args,
